@@ -12,7 +12,7 @@ on:
     # Corre cada 6h    
     #- cron: '0 */6 * * *'
     # Test
-    #- cron: '15,45 10-23 * * *'
+    #- cron: '15,45 14-23 * * *'
 
 jobs:
   build:
